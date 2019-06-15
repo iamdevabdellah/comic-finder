@@ -1,1 +1,1 @@
-# comic-finder
+# Comic Finder
